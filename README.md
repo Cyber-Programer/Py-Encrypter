@@ -8,7 +8,7 @@ Py-Encrypter is a powerful Python script that allows you to encrypt your Python 
 
 ## Installation
 
-Install my-project with npm
+Install my-project 
 
 ```bash
     pip install tkinter
