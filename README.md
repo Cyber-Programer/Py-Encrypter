@@ -27,7 +27,7 @@ Install my-project with npm
 ```
 ```bash
     python3 Py_Encrypter.pyw
-
+```
 ## Or direct install
 
 ```bash
@@ -41,6 +41,9 @@ Install my-project with npm
 ```
 ```bash
     python3 Py_Encrypter.pyw
+```
 
 # Look like This.....
-![Screenshot 2023-07-25 030529](https://github.com/Cyber-Programer/Py-Encrypter/assets/125746506/d5bea5b9-9293-4904-8028-402ae54621ed)
+![Screenshot 2023-07-25 030529](https://github.com/Cyber-Programer/Py-Encrypter/assets/125746506/2fe4f961-7890-4583-abf4-b6a2c3eb2642)
+
+
