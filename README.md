@@ -22,6 +22,12 @@ Install my-project with npm
     git clone https://github.com/Cyber-Programer/Py-Encrypter.git
 ```
 
+```bash
+    cd Py-Encrypter
+```
+```bash
+    python3 Py_Encrypter.pyw
+
 ## Or direct install
 
 ```bash
@@ -30,6 +36,11 @@ Install my-project with npm
 ```bash
     git clone https://github.com/Cyber-Programer/Py-Encrypter.git
 ```
+```bash
+    cd Py-Encrypter
+```
+```bash
+    python3 Py_Encrypter.pyw
 
 # Look like This.....
 ![Screenshot 2023-07-25 030529](https://github.com/Cyber-Programer/Py-Encrypter/assets/125746506/d5bea5b9-9293-4904-8028-402ae54621ed)
