@@ -3,8 +3,6 @@
 ### Introduction
 Py-Encrypter is a powerful Python script that allows you to encrypt your Python scripts, ensuring the confidentiality and security of your code. With Py-Encrypter, you can protect your intellectual property and prevent unauthorized access to your valuable source code.
 
-# Screenshot
-
 
 ## Installation
 
