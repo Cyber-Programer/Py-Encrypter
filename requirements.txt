@@ -1,0 +1,2 @@
+tkinter==8.6
+subprocess==3.5
